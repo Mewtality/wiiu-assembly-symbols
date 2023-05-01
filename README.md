@@ -6,5 +6,5 @@ Symbol names for various Wii U libraries and titles.
 - &lt;path&gt;
  The exact location of the file. e.g:<br>
  ```
- .include "C:\devkitPro\devkitPPC\assembly\wiiu-assembly-symbols\<myFile>.S"
+ .include "C:/devkitPro/devkitPPC/assembly/wiiu-assembly-symbols/<myFile>.S"
  ```
