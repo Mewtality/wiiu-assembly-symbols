@@ -2,9 +2,8 @@
 * Project: Turbo.rpx.S
 * Author: Mewtality
 * Date: Wednesday, March 8, 2023
-* Contact: 
+* Contact:
 * 	- YouTube: https://www.youtube.com/c/Mewtality
-* 	- Discord: Mewtality#8315
 * Learn more at:
 * 	- https://docs.google.com/spreadsheets/d/1jgs7ydwMLdT4s6buHDP-hqLijH21uy_PhZoUbRnPV6k/edit?usp=share_link
 */

@@ -2,9 +2,8 @@
 * Project: dc.rpl.S
 * Author: Mewtality
 * Date: Wednesday, March 8, 2023
-* Contact: 
+* Contact:
 * 	- YouTube: https://www.youtube.com/c/Mewtality
-* 	- Discord: Mewtality#8315
 */
 	.equiv "DCInit", 0x0110D69C
 	.equiv "DCDisableTrigAInterrupt", 0x0110DE14

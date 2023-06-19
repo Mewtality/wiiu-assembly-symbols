@@ -2,9 +2,8 @@
 * Project: snd_core.rpl.S
 * Author: Mewtality
 * Date: Wednesday, March 8, 2023
-* Contact: 
+* Contact:
 * 	- YouTube: https://www.youtube.com/c/Mewtality
-* 	- Discord: Mewtality#8315
 */
 	.equiv "AXInitEx", 0x011C34A8
 	.equiv "AXInit", 0x011C353C

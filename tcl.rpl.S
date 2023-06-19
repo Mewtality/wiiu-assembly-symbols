@@ -2,9 +2,8 @@
 * Project: tcl.rpl.S
 * Author: Mewtality
 * Date: Wednesday, March 8, 2023
-* Contact: 
+* Contact:
 * 	- YouTube: https://www.youtube.com/c/Mewtality
-* 	- Discord: Mewtality#8315
 */
 	.equiv "AddrCreate", 0x010D4104
 	.equiv "AddrDestroy", 0x010D4108

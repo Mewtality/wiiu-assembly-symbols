@@ -2,9 +2,8 @@
 * Project: nsysnet.rpl.S
 * Author: Mewtality
 * Date: Wednesday, March 8, 2023
-* Contact: 
+* Contact:
 * 	- YouTube: https://www.youtube.com/c/Mewtality
-* 	- Discord: Mewtality#8315
 * Learn more at:
 * 	- https://wut.devkitpro.org/group__nsysnet.html
 */

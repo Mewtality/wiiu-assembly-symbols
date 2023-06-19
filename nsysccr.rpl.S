@@ -2,9 +2,8 @@
 * Project: nsysccr.rpl.S
 * Author: Mewtality
 * Date: Wednesday, March 8, 2023
-* Contact: 
+* Contact:
 * 	- YouTube: https://www.youtube.com/c/Mewtality
-* 	- Discord: Mewtality#8315
 */
 	.equiv "CCRHIDGetRegisteredList", 0x010B9E4C
 	.equiv "CCRHIDSetRegisteredCallback", 0x010B9E7C

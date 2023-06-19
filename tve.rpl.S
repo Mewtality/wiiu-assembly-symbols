@@ -2,9 +2,8 @@
 * Project: tve.rpl.S
 * Author: Mewtality
 * Date: Wednesday, March 8, 2023
-* Contact: 
+* Contact:
 * 	- YouTube: https://www.youtube.com/c/Mewtality
-* 	- Discord: Mewtality#8315
 */
 	.equiv "I2CInit", 0x010A5904
 	.equiv "I2CMEnable", 0x010A5964

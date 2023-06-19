@@ -1,5 +1,7 @@
 # wiiu-assembly-symbols
 Symbol names for various Wii U libraries and titles.
+
+Note: Not all libraries are included, if you wish to call functions from those libraries, you'll need to use coreinit.rpl. (use: "OSDynLoad_Acquire", "OSDynLoad_FindExport")
 <br><br>
  Use this in PowerPC assembly projects with the ".include &lt;path&gt;" pseudo-op.
  
