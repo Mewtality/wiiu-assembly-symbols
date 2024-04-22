@@ -7,7 +7,6 @@
 * Learn more at:
 * 	- https://docs.google.com/spreadsheets/d/1jgs7ydwMLdT4s6buHDP-hqLijH21uy_PhZoUbRnPV6k/edit?usp=share_link
 */
-
 	.equiv "object::AIAutoSteer::moveBoxCol", 0x0E180738
 	.equiv "object::AIAutoSteer::calcState_", 0x0E1807C4
 	.equiv "object::AIAutoSteer::calcCnt_", 0x0E180C64
